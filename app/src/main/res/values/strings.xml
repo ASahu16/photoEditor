@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">photoEditorDemo</string>
+    <string name="preview_area">Preview Area</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="edit">Edit</string>
+</resources>
